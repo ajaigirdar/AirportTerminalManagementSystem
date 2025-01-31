@@ -1,6 +1,6 @@
-package org.example;
+package com.airport.view;
 
-public class Main {
+public class AirportTerminalApp {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
