@@ -28,4 +28,8 @@ public class ReservationSystem {
             return new ArrayList<>(); // instead of returning null
         }
     }
+
+    public HashMap<String, ArrayList<Passenger>> getReservations() {
+        return reservations;
+    }
 }
